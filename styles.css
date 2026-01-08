@@ -11,7 +11,7 @@ header, footer {
 }
 
 main {
-    padding: 20 px;
+    padding: 20px;
 }
 
 #skills {
@@ -24,7 +24,7 @@ main {
 }
 
 .skill span {
-    display:blocks;
+    display: block;
     font-weight:bold;
     margin-bottom: 5px;
 }
@@ -41,5 +41,18 @@ main {
 .skill-level {
     background-color: #5e96ff;
     height: 100%;
-    width: 0;
+    width: 80%;
+    transition: width 1s ease-in-out;
+}
+
+#html-level {
+    width: 80%;
+}
+
+#css-level {
+    width: 70%;
+}
+
+#python-level {
+    width: 40%;
 }
