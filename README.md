@@ -5,18 +5,18 @@ Created as my first portfolio project while learning web development 🚀
 
 ✨ Features
 
-    👤 About Me section
-    🛠️ Skills section (HTML, CSS, Python)
-    📁 Projects showcase
-    📬 Contact information
-    🎨 Clean and simple layout
-    📱 Responsive structure basics
+👤 About Me section
+🛠️ Skills section (HTML, CSS, Python)
+📁 Projects showcase
+📬 Contact information
+🎨 Clean and simple layout
+📱 Responsive structure basics
 
 🧰 Technologies
 
-    🌐 HTML5
-    🎨 CSS3
-    🐙 Git & GitHub
+🌐 HTML5
+🎨 CSS3
+🐙 Git & GitHub
 
 🎯 Purpose
 
